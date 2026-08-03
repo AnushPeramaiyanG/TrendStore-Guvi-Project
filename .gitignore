@@ -1,0 +1,30 @@
+nano .gitignore
+
+Add:
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Logs
+*.log
+
+# Node (if source code is added later)
+node_modules/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Environment files
+.env
+
+# Build output (uncomment if your repository contains source code instead of pre-built dist)
+# build/
