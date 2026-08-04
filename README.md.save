@@ -8,11 +8,6 @@ It is intentionally structured to help learners focus on CI/CD pipelines, hostin
 
 dist/ – Compiled and production-ready static files
 
-<<<<<<< HEAD
-=======
-Webhook test - August 2026
-
->>>>>>> 48c8215aa518ec4bec8636d16682c35f84b5a66b
 HTML
 
 CSS
@@ -94,3 +89,5 @@ No dependencies are required
 No build process is required
 
 No package.json is needed
+
+Webhook test - August 2026

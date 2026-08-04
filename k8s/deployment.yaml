@@ -20,7 +20,11 @@ spec:
       containers:
       - name: trend-app
 
+<<<<<<< HEAD
         image: anushperamaiyang/trend-app:v1
+=======
+        image: anushperamaiyang/trend-app:v2
+>>>>>>> 48c8215aa518ec4bec8636d16682c35f84b5a66b
 
         imagePullPolicy: Always
 

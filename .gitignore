@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+nano .gitignore
+
+Add:
+
+>>>>>>> 48c8215aa518ec4bec8636d16682c35f84b5a66b
 # Terraform
 .terraform/
 *.tfstate
