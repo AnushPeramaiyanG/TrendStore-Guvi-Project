@@ -11,11 +11,7 @@ pipeline {
 
         stage('Clone') {
             steps {
-<<<<<<< HEAD
-                git url: 'https://github.com/AnushPeramaiyanG/TrendStore.git,
-=======
                 git url: 'https://github.com/AnushPeramaiyanG/TrendStore-Guvi-Project.git',
->>>>>>> 48c8215aa518ec4bec8636d16682c35f84b5a66b
                     branch: 'main'
             }
         }
@@ -50,9 +46,5 @@ pipeline {
                 '''
             }
         }
-<<<<<<< HEAD
-=======
-        
->>>>>>> 48c8215aa518ec4bec8636d16682c35f84b5a66b
     }
 }
